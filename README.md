@@ -1,5 +1,7 @@
 # GitHub Enterprise Features
 
+Can I use the feature on GitHub Enterprise?
+
 ## Features List
 
 ## Author
