@@ -17,7 +17,7 @@ Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [Gi
 
 ## License
 
-This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
+GitHub.com and GitHub Enterprise are copyright © 2014 GitHub Inc. All rights reserved.
 
 [1924]: https://github.com/blog/1924-mobile-search
 [1932]: https://github.com/blog/1932-syntax-highlighted-diffs
