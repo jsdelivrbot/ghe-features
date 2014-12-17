@@ -4,7 +4,7 @@ Can I use the feature on GitHub Enterprise?
 
 ## Features List
 
-| Feature Name | Shipped to GitHub | Shipped to GitHub Enterprise |
+| Feature Name | GitHub | GitHub Enterprise |
 | :-: | :-: | :-: |
 | [Syntax Highlighted Diffs][1932] | 2014-12-10 | Not yet |
 
