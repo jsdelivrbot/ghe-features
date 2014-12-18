@@ -7,7 +7,7 @@ Can I use the feature on GitHub Enterprise?
 Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [GitHub Enterprise][github-enterprise].
 
 | Feature Name | GitHub.com | GitHub Enterprise |
-| :-: | :-: | :-: |
+| :-- | :-: | :-: |
 | [Mobile Search][1924] | 2014-12-17 | Not yet |
 | [Syntax Highlighted Diffs][1932] | 2014-12-10 | Not yet |
 | [See results from all pull request status checks][1935] | 2014-12-09 | Not yet |
