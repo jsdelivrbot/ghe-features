@@ -11,6 +11,7 @@ Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [Gi
 | [Mobile Search][1924] | 2014-12-17 | Not yet |
 | [Syntax Highlighted Diffs][1932] | 2014-12-10 | Not yet |
 | [See results from all pull request status checks][1935] | 2014-12-09 | Not yet |
+| [Introducing organization webhooks][1933] | 2014-12-04 | Not yet |
 
 ## Author
 
@@ -23,6 +24,7 @@ GitHub.com and GitHub Enterprise are copyright © 2014 GitHub Inc. All rights re
 [1924]: https://github.com/blog/1924-mobile-search
 [1932]: https://github.com/blog/1932-syntax-highlighted-diffs
 [1935]: https://github.com/blog/1935-see-results-from-all-pull-request-status-checks
+[1933]: https://github.com/blog/1933-introducing-organization-webhooks
 [github-enterprise]: https://enterprise.github.com/
 [github]: https://github.com/
 [blog]: https://github.com/blog/category/ship
