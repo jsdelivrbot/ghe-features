@@ -16,6 +16,7 @@ Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [Gi
 | [Linking merged pull requests from commits][1905] | 2014-11-14 | Not yet |
 | [SVG Viewing & Diffing][1902] | 2014-10-07 | Not yet |
 | [Managing Issues and Pull Requests Across Repositories][1901] | 2014-10-07 | Not yet |
+| [View Issue/Pull Request buttons for Gmail][1891] | 2014-09-20 | Not yet |
 
 ## Author
 
@@ -33,6 +34,7 @@ GitHub.com and GitHub Enterprise are copyright © 2014 GitHub Inc. All rights re
 [1905]: https://github.com/blog/1905-linking-merged-pull-requests-from-commits
 [1902]: https://github.com/blog/1902-svg-viewing-diffing
 [1901]: https://github.com/blog/1901-managing-issues-and-pull-requests-across-repositories
+[1891]: https://github.com/blog/1891-view-issue-pull-request-buttons-for-gmail
 [github-enterprise]: https://enterprise.github.com/
 [github]: https://github.com/
 [blog]: https://github.com/blog/category/ship
