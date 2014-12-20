@@ -18,6 +18,7 @@ Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [Gi
 | [Managing Issues and Pull Requests Across Repositories][1901] | 2014-10-07 | Not yet |
 | [View Issue/Pull Request buttons for Gmail][1891] | 2014-09-20 | Not yet |
 | [Better Word Highlighting in Diffs][1885] | 2014-09-05 | Not yet |
+| [Introducing split diffs][1884] | 2014-09-04 | [2.0.0] |
 
 ## Author
 
@@ -37,6 +38,8 @@ GitHub.com and GitHub Enterprise are copyright © 2014 GitHub Inc. All rights re
 [1901]: https://github.com/blog/1901-managing-issues-and-pull-requests-across-repositories
 [1891]: https://github.com/blog/1891-view-issue-pull-request-buttons-for-gmail
 [1885]: https://github.com/blog/1885-better-word-highlighting-in-diffs
+[1884]: https://github.com/blog/1884-introducing-split-diffs
+[2.0.0]: https://enterprise.github.com/releases#release-2.0.0
 [github-enterprise]: https://enterprise.github.com/
 [github]: https://github.com/
 [blog]: https://github.com/blog/category/ship
