@@ -14,6 +14,7 @@ Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [Gi
 | [Introducing organization webhooks][1933] | 2014-12-04 | Not yet |
 | [Delete merged branches from your phone][1927] | 2014-11-20 | Not yet |
 | [Linking merged pull requests from commits][1905] | 2014-11-14 | Not yet |
+| [SVG Viewing & Diffing][1902] | 2014-10-07 | Not yet |
 
 ## Author
 
@@ -29,6 +30,7 @@ GitHub.com and GitHub Enterprise are copyright © 2014 GitHub Inc. All rights re
 [1933]: https://github.com/blog/1933-introducing-organization-webhooks
 [1927]: https://github.com/blog/1927-delete-merged-branches-from-your-phone
 [1905]: https://github.com/blog/1905-linking-merged-pull-requests-from-commits
+[1902]: https://github.com/blog/1902-svg-viewing-diffing
 [github-enterprise]: https://enterprise.github.com/
 [github]: https://github.com/
 [blog]: https://github.com/blog/category/ship
