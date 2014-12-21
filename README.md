@@ -21,6 +21,7 @@ Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [Gi
 | [Introducing split diffs][1884] | 2014-09-04 | [2.0.0] |
 | [Improved Audit Log][1872] | 2014-08-21 | [2.0.0] |
 | [Folder Jumping][1877] | 2014-08-20 | [2.0.0] |
+| [Clone Graphs][1873] | 2014-08-13 | Not yet |
 
 ## Author
 
@@ -43,6 +44,7 @@ GitHub.com and GitHub Enterprise are copyright © 2014 GitHub Inc. All rights re
 [1884]: https://github.com/blog/1884-introducing-split-diffs
 [1872]: https://github.com/blog/1872-improved-audit-log
 [1877]: https://github.com/blog/1877-folder-jumping
+[1873]: https://github.com/blog/1873-clone-graphs
 [2.0.0]: https://enterprise.github.com/releases#release-2.0.0
 [github-enterprise]: https://enterprise.github.com/
 [github]: https://github.com/
