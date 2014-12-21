@@ -14,7 +14,7 @@ Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [Gi
 | [Introducing organization webhooks][1933] | 2014-12-04 | Not yet |
 | [Delete merged branches from your phone][1927] | 2014-11-20 | Not yet |
 | [Linking merged pull requests from commits][1905] | 2014-11-14 | Not yet |
-| [SVG Viewing & Diffing][1902] | 2014-10-07 | Not yet |
+| [SVG Viewing &amp; Diffing][1902] | 2014-10-07 | Not yet |
 | [Managing Issues and Pull Requests Across Repositories][1901] | 2014-10-07 | Not yet |
 | [View Issue/Pull Request buttons for Gmail][1891] | 2014-09-20 | Not yet |
 | [Better Word Highlighting in Diffs][1885] | 2014-09-05 | Not yet |
