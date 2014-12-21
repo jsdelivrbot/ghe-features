@@ -18,11 +18,11 @@ Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [Gi
 | [Managing Issues and Pull Requests Across Repositories][1901] | 2014-10-07 | Not yet |
 | [View Issue/Pull Request buttons for Gmail][1891] | 2014-09-20 | Not yet |
 | [Better Word Highlighting in Diffs][1885] | 2014-09-05 | Not yet |
-| [Introducing split diffs][1884] | 2014-09-04 | [2.0.0] |
-| [Improved Audit Log][1872] | 2014-08-21 | [2.0.0] |
-| [Folder Jumping][1877] | 2014-08-20 | [2.0.0] |
+| [Introducing split diffs][1884] | 2014-09-04 | [v2.0.0] |
+| [Improved Audit Log][1872] | 2014-08-21 | [v2.0.0] |
+| [Folder Jumping][1877] | 2014-08-20 | [v2.0.0] |
 | [Clone Graphs][1873] | 2014-08-13 | Not yet |
-| [Inviting people to your organization][1868] | 2014-08-06 | [2.0.0] |
+| [Inviting people to your organization][1868] | 2014-08-06 | [v2.0.0] |
 
 ## Author
 
@@ -47,7 +47,7 @@ GitHub.com and GitHub Enterprise are copyright © 2014 GitHub Inc. All rights re
 [1877]: https://github.com/blog/1877-folder-jumping
 [1873]: https://github.com/blog/1873-clone-graphs
 [1868]: https://github.com/blog/1868-inviting-people-to-your-organization
-[2.0.0]: https://enterprise.github.com/releases#release-2.0.0
+[v2.0.0]: https://enterprise.github.com/releases#release-2.0.0
 [github-enterprise]: https://enterprise.github.com/
 [github]: https://github.com/
 [blog]: https://github.com/blog/category/ship
