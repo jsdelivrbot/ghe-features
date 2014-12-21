@@ -22,6 +22,7 @@ Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [Gi
 | [Improved Audit Log][1872] | 2014-08-21 | [2.0.0] |
 | [Folder Jumping][1877] | 2014-08-20 | [2.0.0] |
 | [Clone Graphs][1873] | 2014-08-13 | Not yet |
+| [Inviting people to your organization][1868] | 2014-08-06 | [2.0.0] |
 
 ## Author
 
@@ -45,6 +46,7 @@ GitHub.com and GitHub Enterprise are copyright © 2014 GitHub Inc. All rights re
 [1872]: https://github.com/blog/1872-improved-audit-log
 [1877]: https://github.com/blog/1877-folder-jumping
 [1873]: https://github.com/blog/1873-clone-graphs
+[1868]: https://github.com/blog/1868-inviting-people-to-your-organization
 [2.0.0]: https://enterprise.github.com/releases#release-2.0.0
 [github-enterprise]: https://enterprise.github.com/
 [github]: https://github.com/
