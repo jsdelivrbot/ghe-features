@@ -24,6 +24,7 @@ Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [Gi
 | [Clone Graphs][1873] | 2014-08-13 | Not yet |
 | [Inviting people to your organization][1868] | 2014-08-06 | [v2.0.0] |
 | [GitHub Pages now runs Jekyll 2.2.0][1867] | 2014-07-31 | [v2.0.0] |
+| [The New GitHub Issues][1866] | 2014-07-29 | [v2.0.0] |
 
 ## Author
 
@@ -49,6 +50,7 @@ GitHub.com and GitHub Enterprise are copyright © 2014 GitHub Inc. All rights re
 [1873]: https://github.com/blog/1873-clone-graphs
 [1868]: https://github.com/blog/1868-inviting-people-to-your-organization
 [1867]: https://github.com/blog/1867-github-pages-now-runs-jekyll-2-2-0
+[1866]: https://github.com/blog/1866-the-new-github-issues
 [v2.0.0]: https://enterprise.github.com/releases#release-2.0.0
 [github-enterprise]: https://enterprise.github.com/
 [github]: https://github.com/
