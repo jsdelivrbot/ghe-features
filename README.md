@@ -27,7 +27,7 @@ Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [Gi
 
 ## Author
 
-* Ryuichi Okumura ([@okuryu][okuryu])
+* Ryuichi Okumura ([@okuryu])
 
 ## License
 
@@ -53,4 +53,4 @@ GitHub.com and GitHub Enterprise are copyright © 2014 GitHub Inc. All rights re
 [github-enterprise]: https://enterprise.github.com/
 [github]: https://github.com/
 [blog]: https://github.com/blog/category/ship
-[okuryu]: https://github.com/okuryu
+[@okuryu]: https://github.com/okuryu
