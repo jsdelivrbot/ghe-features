@@ -27,6 +27,7 @@ Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [Gi
 | [The New GitHub Issues][1866] | 2014-07-29 | [v2.0.0] |
 | [View GeoJSON/TopoJSON Source][1865] | 2014-07-24 | Not yet |
 | [Introducing the Revert Button][1857] | 2014-06-25 | [v2.0.0] |
+| [A better branches page][1852] | 2014-06-21 | [v2.0.0] |
 
 ## Author
 
@@ -55,6 +56,7 @@ GitHub.com and GitHub Enterprise are copyright © 2014 GitHub Inc. All rights re
 [1866]: https://github.com/blog/1866-the-new-github-issues
 [1865]: https://github.com/blog/1865-view-geojson-topojson-source
 [1857]: https://github.com/blog/1857-introducing-the-revert-button
+[1852]: https://github.com/blog/1852-a-better-branches-page
 [v2.0.0]: https://enterprise.github.com/releases#release-2.0.0
 [github-enterprise]: https://enterprise.github.com/
 [github]: https://github.com/
