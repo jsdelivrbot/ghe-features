@@ -29,6 +29,7 @@ Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [Gi
 | [Introducing the Revert Button][1857] | 2014-06-25 | [v2.0.0] |
 | [A better branches page][1852] | 2014-06-21 | [v2.0.0] |
 | [Gist Design Update][1850] | 2014-06-17 | [v2.0.0] |
+| [Locking Conversations][1847] | 2014-06-10 | [v2.0.0] |
 
 ## Author
 
@@ -59,6 +60,7 @@ GitHub.com and GitHub Enterprise are copyright © 2014 GitHub Inc. All rights re
 [1857]: https://github.com/blog/1857-introducing-the-revert-button
 [1852]: https://github.com/blog/1852-a-better-branches-page
 [1850]: https://github.com/blog/1850-gist-design-update
+[1847]: https://github.com/blog/1847-locking-conversations
 [v2.0.0]: https://enterprise.github.com/releases#release-2.0.0
 [github-enterprise]: https://enterprise.github.com/
 [github]: https://github.com/
