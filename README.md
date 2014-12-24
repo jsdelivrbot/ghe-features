@@ -32,6 +32,7 @@ Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [Gi
 | [Locking Conversations][1847] | 2014-06-10 | [v2.0.0] |
 | [PSD Viewing &amp; Diffing][1845] | 2014-06-06 | [v2.0.0] |
 | [Nested task lists][1841] | 2014-05-15 | [v2.0.0] |
+| [Change the visibility of your Gists][1837] | 2014-05-10 | [v11.10.341] |
 
 ## Author
 
@@ -65,7 +66,9 @@ GitHub.com and GitHub Enterprise are copyright © 2014 GitHub Inc. All rights re
 [1847]: https://github.com/blog/1847-locking-conversations
 [1845]: https://github.com/blog/1845-psd-viewing-diffing
 [1841]: https://github.com/blog/1841-nested-task-lists
+[1837]: https://github.com/blog/1837-change-the-visibility-of-your-gists
 [v2.0.0]: https://enterprise.github.com/releases#release-2.0.0
+[v11.10.341]: https://enterprise.github.com/releases#release-11.10.341
 [github-enterprise]: https://enterprise.github.com/
 [github]: https://github.com/
 [blog]: https://github.com/blog/category/ship
