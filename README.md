@@ -2,7 +2,7 @@
 
 Can I use the feature on GitHub Enterprise?
 
-## Features List
+## Shipped Features List
 
 Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [GitHub Enterprise][github-enterprise].
 
