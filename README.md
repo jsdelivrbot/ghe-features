@@ -35,6 +35,7 @@ Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [Gi
 | [Change the visibility of your Gists][1837] | 2014-05-10 | [v11.10.341] |
 | [GitHub Pages &lt;3][1833] | 2014-05-09 | [v11.10.341] |
 | [Wikis: now with more love][1828] | 2014-05-02 | [v11.10.341] |
+| [Updated Services UI][1827] | 2014-04-30 | [v11.10.341] |
 
 ## Author
 
@@ -71,6 +72,7 @@ GitHub.com and GitHub Enterprise are copyright © 2014 GitHub Inc. All rights re
 [1837]: https://github.com/blog/1837-change-the-visibility-of-your-gists
 [1833]: https://github.com/blog/1833-github-pages-3
 [1828]: https://github.com/blog/1828-wikis-now-with-more-love
+[1827]: https://github.com/blog/1827-updated-services-ui
 [v2.0.0]: https://enterprise.github.com/releases#release-2.0.0
 [v11.10.341]: https://enterprise.github.com/releases#release-11.10.341
 [github-enterprise]: https://enterprise.github.com/
