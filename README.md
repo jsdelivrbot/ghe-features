@@ -38,6 +38,7 @@ Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [Gi
 | [Updated Services UI][1827] | 2014-04-30 | [v11.10.341] |
 | [Task lists in all markdown documents][1825] | 2014-04-29 | [v11.10.341] |
 | [Write line notes from your phone][1819] | 2014-04-15 | [v11.10.341] |
+| [L is for Labels][1815] | 2014-04-02 | [v11.10.341] |
 
 ## Author
 
@@ -77,6 +78,7 @@ GitHub.com and GitHub Enterprise are copyright © 2014 GitHub Inc. All rights re
 [1827]: https://github.com/blog/1827-updated-services-ui
 [1825]: https://github.com/blog/1825-task-lists-in-all-markdown-documents
 [1819]: https://github.com/blog/1819-write-line-notes-from-your-phone
+[1815]: https://github.com/blog/1815-l-is-for-labels
 [v2.0.0]: https://enterprise.github.com/releases#release-2.0.0
 [v11.10.341]: https://enterprise.github.com/releases#release-11.10.341
 [github-enterprise]: https://enterprise.github.com/
