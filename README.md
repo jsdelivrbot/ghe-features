@@ -40,6 +40,7 @@ Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [Gi
 | [Write line notes from your phone][1819] | 2014-04-15 | [v11.10.341] |
 | [L is for Labels][1815] | 2014-04-02 | [v11.10.341] |
 | [Collaborating with Lists][1814] | 2014-04-01 | [v11.10.341] |
+| [No Conversation Left Behind][1811] | 2014-03-28 | [v11.10.341] |
 
 ## Author
 
@@ -81,6 +82,7 @@ GitHub.com and GitHub Enterprise are copyright © 2014 GitHub Inc. All rights re
 [1819]: https://github.com/blog/1819-write-line-notes-from-your-phone
 [1815]: https://github.com/blog/1815-l-is-for-labels
 [1814]: https://github.com/blog/1814-collaborating-with-lists
+[1811]: https://github.com/blog/1811-no-conversation-left-behind
 [v2.0.0]: https://enterprise.github.com/releases#release-2.0.0
 [v11.10.341]: https://enterprise.github.com/releases#release-11.10.341
 [github-enterprise]: https://enterprise.github.com/
