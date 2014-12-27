@@ -42,6 +42,7 @@ Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [Gi
 | [Collaborating with Lists][1814] | 2014-04-01 | [v11.10.341] |
 | [No Conversation Left Behind][1811] | 2014-03-28 | [v11.10.341] |
 | [Recent activity for authentication credentials][1794] | 2014-03-21 | [v11.10.341] |
+| [Repository metadata and plugin support for GitHub Pages][1797] | 2014-03-15 | [v11.10.341] |
 
 ## Author
 
@@ -85,6 +86,7 @@ GitHub.com and GitHub Enterprise are copyright © 2014 GitHub Inc. All rights re
 [1814]: https://github.com/blog/1814-collaborating-with-lists
 [1811]: https://github.com/blog/1811-no-conversation-left-behind
 [1794]: https://github.com/blog/1794-recent-activity-for-authentication-credentials
+[1797]: https://github.com/blog/1797-repository-metadata-and-plugin-support-for-github-pages
 [v2.0.0]: https://enterprise.github.com/releases#release-2.0.0
 [v11.10.341]: https://enterprise.github.com/releases#release-11.10.341
 [github-enterprise]: https://enterprise.github.com/
