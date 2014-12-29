@@ -49,6 +49,7 @@ Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [Gi
 | [People you know][1777] | 2014-02-11 | [v11.10.341] |
 | [Diffable, more customizable maps][1772] | 2014-02-06 | Not yet |
 | [Redesigned Conversations][1767] | 2014-02-06 | [v11.10.341] |
+| [Better Organizations][1763] | 2014-01-23 | [v11.10.341] |
 
 ## Author
 
@@ -99,6 +100,7 @@ GitHub.com and GitHub Enterprise are copyright © 2014 GitHub Inc. All rights re
 [1777]: https://github.com/blog/1777-people-you-know
 [1772]: https://github.com/blog/1772-diffable-more-customizable-maps
 [1767]: https://github.com/blog/1767-redesigned-conversations
+[1763]: https://github.com/blog/1763-better-organizations
 [v2.0.0]: https://enterprise.github.com/releases#release-2.0.0
 [v11.10.341]: https://enterprise.github.com/releases#release-11.10.341
 [github-enterprise]: https://enterprise.github.com/
