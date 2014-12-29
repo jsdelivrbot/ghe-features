@@ -47,6 +47,7 @@ Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [Gi
 | [Rendered Prose Diffs][1784] | 2014-02-15 | [v11.10.341] |
 | [Webhooks level up][1778] | 2014-02-12 | [v11.10.341] |
 | [People you know][1777] | 2014-02-11 | [v11.10.341] |
+| [Diffable, more customizable maps][1772] | 2014-02-06 | Not yet |
 
 ## Author
 
@@ -95,6 +96,7 @@ GitHub.com and GitHub Enterprise are copyright © 2014 GitHub Inc. All rights re
 [1784]: https://github.com/blog/1784-rendered-prose-diffs
 [1778]: https://github.com/blog/1778-webhooks-level-up
 [1777]: https://github.com/blog/1777-people-you-know
+[1772]: https://github.com/blog/1772-diffable-more-customizable-maps
 [v2.0.0]: https://enterprise.github.com/releases#release-2.0.0
 [v11.10.341]: https://enterprise.github.com/releases#release-11.10.341
 [github-enterprise]: https://enterprise.github.com/
