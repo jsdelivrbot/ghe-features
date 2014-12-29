@@ -45,6 +45,7 @@ Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [Gi
 | [Repository metadata and plugin support for GitHub Pages][1797] | 2014-03-15 | [v11.10.341] |
 | [Enhanced OAuth security for SSH keys][1786] | 2014-02-25 | [v11.10.341] |
 | [Rendered Prose Diffs][1784] | 2014-02-15 | [v11.10.341] |
+| [Webhooks level up][1778] | 2014-02-12 | [v11.10.341] |
 
 ## Author
 
@@ -91,6 +92,7 @@ GitHub.com and GitHub Enterprise are copyright © 2014 GitHub Inc. All rights re
 [1797]: https://github.com/blog/1797-repository-metadata-and-plugin-support-for-github-pages
 [1786]: https://github.com/blog/1786-enhanced-oauth-security-for-ssh-keys
 [1784]: https://github.com/blog/1784-rendered-prose-diffs
+[1778]: https://github.com/blog/1778-webhooks-level-up
 [v2.0.0]: https://enterprise.github.com/releases#release-2.0.0
 [v11.10.341]: https://enterprise.github.com/releases#release-11.10.341
 [github-enterprise]: https://enterprise.github.com/
