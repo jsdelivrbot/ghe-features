@@ -53,6 +53,7 @@ Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [Gi
 | [Web-flow editing from Pull Requests][1738] | 2014-01-22 | [v11.10.341] |
 | [Introducing GitHub Traffic Analytics][1672] | 2014-01-08 | Not yet |
 | [More Explore Features][1712] | 2013-12-10 | [v11.10.341] |
+| [Soft-wrapping on prose diffs][1707] | 2013-12-04 | [v11.10.341] |
 
 ## Author
 
@@ -107,6 +108,7 @@ GitHub.com and GitHub Enterprise are copyright © 2014 GitHub Inc. All rights re
 [1738]: https://github.com/blog/1738-web-flow-editing-from-pull-requests
 [1672]: https://github.com/blog/1672-introducing-github-traffic-analytics
 [1712]: https://github.com/blog/1712-more-explore-features
+[1707]: https://github.com/blog/1707-soft-wrapping-on-prose-diffs
 [v2.0.0]: https://enterprise.github.com/releases#release-2.0.0
 [v11.10.341]: https://enterprise.github.com/releases#release-11.10.341
 [github-enterprise]: https://enterprise.github.com/
