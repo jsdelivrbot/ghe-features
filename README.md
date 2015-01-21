@@ -60,6 +60,7 @@ Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [Gi
 | [Opening files from pull requests and branches][1650] | 2013-10-01 | [v11.10.341] |
 | [Viewing YAML Metadata in your Documents][1647] | 2013-09-28 | [v11.10.341] |
 | [Releases API Preview][1645] | 2013-09-26 | [v11.10.341] |
+| [Merge Pull Requests from your phone][1642] | 2013-09-25 | [v11.10.341] |
 
 ## Author
 
@@ -121,6 +122,7 @@ GitHub.com and GitHub Enterprise are copyright © 2014 GitHub Inc. All rights re
 [1650]: https://github.com/blog/1650-opening-files-from-pull-requests-and-branches
 [1647]: https://github.com/blog/1647-viewing-yaml-metadata-in-your-documents
 [1645]: https://github.com/blog/1645-releases-api-preview
+[1642]: https://github.com/blog/1642-merge-pull-requests-from-your-phone
 [v2.0.0]: https://enterprise.github.com/releases#release-2.0.0
 [v11.10.341]: https://enterprise.github.com/releases#release-11.10.341
 [github-enterprise]: https://enterprise.github.com/
