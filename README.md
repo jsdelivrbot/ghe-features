@@ -58,6 +58,7 @@ Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [Gi
 | [Expanding context in diffs][1705] | 2013-12-02 | [v11.10.341] |
 | [View Active Browser Sessions][1658] | 2013-10-15 | [v11.10.341] |
 | [Opening files from pull requests and branches][1650] | 2013-10-01 | [v11.10.341] |
+| [Viewing YAML Metadata in your Documents][1647] | 2013-09-28 | [v11.10.341] |
 
 ## Author
 
@@ -117,6 +118,7 @@ GitHub.com and GitHub Enterprise are copyright © 2014 GitHub Inc. All rights re
 [1705]: https://github.com/blog/1705-expanding-context-in-diffs
 [1658]: https://github.com/blog/1658-view-active-browser-sessions
 [1650]: https://github.com/blog/1650-opening-files-from-pull-requests-and-branches
+[1647]: https://github.com/blog/1647-viewing-yaml-metadata-in-your-documents
 [v2.0.0]: https://enterprise.github.com/releases#release-2.0.0
 [v11.10.341]: https://enterprise.github.com/releases#release-11.10.341
 [github-enterprise]: https://enterprise.github.com/
