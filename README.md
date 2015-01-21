@@ -55,6 +55,7 @@ Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [Gi
 | [More Explore Features][1712] | 2013-12-10 | [v11.10.341] |
 | [Soft-wrapping on prose diffs][1707] | 2013-12-04 | [v11.10.341] |
 | [Descriptive error messages for failed GitHub Pages builds][1706] | 2013-12-03 | [v11.10.341] |
+| [Expanding context in diffs][1705] | 2013-12-02 | [v11.10.341] |
 
 ## Author
 
@@ -111,6 +112,7 @@ GitHub.com and GitHub Enterprise are copyright © 2014 GitHub Inc. All rights re
 [1712]: https://github.com/blog/1712-more-explore-features
 [1707]: https://github.com/blog/1707-soft-wrapping-on-prose-diffs
 [1706]: https://github.com/blog/1706-descriptive-error-messages-for-failed-github-pages-builds
+[1705]: https://github.com/blog/1705-expanding-context-in-diffs
 [v2.0.0]: https://enterprise.github.com/releases#release-2.0.0
 [v11.10.341]: https://enterprise.github.com/releases#release-11.10.341
 [github-enterprise]: https://enterprise.github.com/
