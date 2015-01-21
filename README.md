@@ -57,6 +57,7 @@ Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [Gi
 | [Descriptive error messages for failed GitHub Pages builds][1706] | 2013-12-03 | [v11.10.341] |
 | [Expanding context in diffs][1705] | 2013-12-02 | [v11.10.341] |
 | [View Active Browser Sessions][1658] | 2013-10-15 | [v11.10.341] |
+| [Opening files from pull requests and branches][1650] | 2013-10-01 | [v11.10.341] |
 
 ## Author
 
@@ -115,6 +116,7 @@ GitHub.com and GitHub Enterprise are copyright © 2014 GitHub Inc. All rights re
 [1706]: https://github.com/blog/1706-descriptive-error-messages-for-failed-github-pages-builds
 [1705]: https://github.com/blog/1705-expanding-context-in-diffs
 [1658]: https://github.com/blog/1658-view-active-browser-sessions
+[1650]: https://github.com/blog/1650-opening-files-from-pull-requests-and-branches
 [v2.0.0]: https://enterprise.github.com/releases#release-2.0.0
 [v11.10.341]: https://enterprise.github.com/releases#release-11.10.341
 [github-enterprise]: https://enterprise.github.com/
