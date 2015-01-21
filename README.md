@@ -62,6 +62,7 @@ Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [Gi
 | [Releases API Preview][1645] | 2013-09-26 | [v11.10.341] |
 | [Merge Pull Requests from your phone][1642] | 2013-09-25 | [v11.10.341] |
 | [GeoJSON Previewing][1638] | 2013-09-20 | Not yet |
+| [3D File Diffs][1633] | 2013-09-18 | [v11.10.341] |
 
 ## Author
 
@@ -125,6 +126,7 @@ GitHub.com and GitHub Enterprise are copyright © 2014 GitHub Inc. All rights re
 [1645]: https://github.com/blog/1645-releases-api-preview
 [1642]: https://github.com/blog/1642-merge-pull-requests-from-your-phone
 [1638]: https://github.com/blog/1638-geojson-previewing
+[1633]: https://github.com/blog/1633-3d-file-diffs
 [v2.0.0]: https://enterprise.github.com/releases#release-2.0.0
 [v11.10.341]: https://enterprise.github.com/releases#release-11.10.341
 [github-enterprise]: https://enterprise.github.com/
