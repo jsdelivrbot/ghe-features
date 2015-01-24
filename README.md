@@ -8,6 +8,7 @@ Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [Gi
 
 | Feature Name | GitHub.com | GitHub Enterprise |
 | :-- | :-: | :-: |
+| [Quick Pull Requests][1945] | 2015-01-20 | Not yet |
 | [Mobile Search][1924] | 2014-12-17 | Not yet |
 | [Syntax Highlighted Diffs][1932] | 2014-12-10 | Not yet |
 | [See results from all pull request status checks][1935] | 2014-12-09 | Not yet |
@@ -72,6 +73,7 @@ Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [Gi
 
 GitHub.com and GitHub Enterprise are copyright © 2014 GitHub Inc. All rights reserved.
 
+[1945]: https://github.com/blog/1945-quick-pull-requests
 [1924]: https://github.com/blog/1924-mobile-search
 [1932]: https://github.com/blog/1932-syntax-highlighted-diffs
 [1935]: https://github.com/blog/1935-see-results-from-all-pull-request-status-checks
