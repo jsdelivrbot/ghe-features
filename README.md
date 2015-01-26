@@ -19,7 +19,7 @@ Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [Gi
 | [SVG Viewing &amp; Diffing][1902] | 2014-10-07 | Not yet |
 | [Managing Issues and Pull Requests Across Repositories][1901] | 2014-10-07 | Not yet |
 | [View Issue/Pull Request buttons for Gmail][1891] | 2014-09-20 | Not yet |
-| [Better Word Highlighting in Diffs][1885] | 2014-09-05 | Not yet |
+| [Better Word Highlighting in Diffs][1885] | 2014-09-05 | [v2.0.0] |
 | [Introducing split diffs][1884] | 2014-09-04 | [v2.0.0] |
 | [Improved Audit Log][1872] | 2014-08-21 | [v2.0.0] |
 | [Folder Jumping][1877] | 2014-08-20 | [v2.0.0] |
