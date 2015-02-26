@@ -10,14 +10,14 @@ Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [Gi
 | :-- | :-: | :-: |
 | [Organization-approved applications][1941] | 2015-01-20 | Not yet |
 | [Quick Pull Requests][1945] | 2015-01-20 | Not yet |
-| [Mobile Search][1924] | 2014-12-17 | Not yet |
-| [Syntax Highlighted Diffs][1932] | 2014-12-10 | Not yet |
-| [See results from all pull request status checks][1935] | 2014-12-09 | Not yet |
-| [Introducing organization webhooks][1933] | 2014-12-04 | Not yet |
-| [Delete merged branches from your phone][1927] | 2014-11-20 | Not yet |
-| [Linking merged pull requests from commits][1905] | 2014-11-14 | Not yet |
-| [SVG Viewing &amp; Diffing][1902] | 2014-10-07 | Not yet |
-| [Managing Issues and Pull Requests Across Repositories][1901] | 2014-10-07 | Not yet |
+| [Mobile Search][1924] | 2014-12-17 | [v2.1.0] |
+| [Syntax Highlighted Diffs][1932] | 2014-12-10 | [v2.1.0] |
+| [See results from all pull request status checks][1935] | 2014-12-09 | [v2.1.0] |
+| [Introducing organization webhooks][1933] | 2014-12-04 | [v2.1.0] |
+| [Delete merged branches from your phone][1927] | 2014-11-20 | [v2.1.0] |
+| [Linking merged pull requests from commits][1905] | 2014-11-14 | [v2.1.0] |
+| [SVG Viewing &amp; Diffing][1902] | 2014-10-07 | [v2.1.0] |
+| [Managing Issues and Pull Requests Across Repositories][1901] | 2014-10-07 | [v2.1.0] |
 | [View Issue/Pull Request buttons for Gmail][1891] | 2014-09-20 | Not yet |
 | [Better Word Highlighting in Diffs][1885] | 2014-09-05 | [v2.0.0] |
 | [Introducing split diffs][1884] | 2014-09-04 | [v2.0.0] |
@@ -131,6 +131,7 @@ GitHub.com and GitHub Enterprise are copyright © 2014 GitHub Inc. All rights re
 [1642]: https://github.com/blog/1642-merge-pull-requests-from-your-phone
 [1638]: https://github.com/blog/1638-geojson-previewing
 [1633]: https://github.com/blog/1633-3d-file-diffs
+[v2.1.0]: https://enterprise.github.com/releases#release-2.1.0
 [v2.0.0]: https://enterprise.github.com/releases#release-2.0.0
 [v11.10.341]: https://enterprise.github.com/releases#release-11.10.341
 [github-enterprise]: https://enterprise.github.com/
