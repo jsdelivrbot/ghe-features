@@ -70,6 +70,10 @@ Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [Gi
 
 Few use them and it's difficult to investigate the old versions.
 
+## Contributing
+
+Patch welcome.
+
 ## Author
 
 * Ryuichi Okumura ([@okuryu])
