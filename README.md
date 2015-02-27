@@ -66,6 +66,10 @@ Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [Gi
 | [GeoJSON Previewing][1638] | 2013-09-20 | Not yet |
 | [3D File Diffs][1633] | 2013-09-18 | [v11.10.341] |
 
+## Older than v11.10.341
+
+Few use them and it's difficult to investigate the old versions.
+
 ## Author
 
 * Ryuichi Okumura ([@okuryu])
