@@ -8,6 +8,7 @@ Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [Gi
 
 | Feature Name | GitHub.com | GitHub Enterprise |
 | :-- | :-: | :-: |
+| [Introducing mobile web notifications][1976] | 2015-03-18 | Not yet |
 | [PDF Viewing][1974] | 2015-03-18 | Not yet |
 | [Organization-approved applications][1941] | 2015-01-20 | Not yet |
 | [Quick Pull Requests][1945] | 2015-01-20 | Not yet |
@@ -83,6 +84,7 @@ Patch welcome.
 
 GitHub.com and GitHub Enterprise are copyright © 2014 GitHub Inc. All rights reserved.
 
+[1976]: https://github.com/blog/1976-introducing-mobile-web-notifications
 [1974]: https://github.com/blog/1974-pdf-viewing
 [1941]: https://github.com/blog/1941-organization-approved-applications
 [1945]: https://github.com/blog/1945-quick-pull-requests
