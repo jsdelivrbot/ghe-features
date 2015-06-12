@@ -6,69 +6,6 @@ Can I use the feature on GitHub Enterprise?
 
 Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [GitHub Enterprise][github-enterprise].
 
-| Feature Name | GitHub.com | GitHub Enterprise |
-| :-- | :-: | :-: |
-| [Navigate branches from your phone][1977] | 2015-03-19 | Not yet |
-| [Introducing mobile web notifications][1976] | 2015-03-18 | Not yet |
-| [PDF Viewing][1974] | 2015-03-18 | Not yet |
-| [Organization-approved applications][1941] | 2015-01-20 | Not yet |
-| [Quick Pull Requests][1945] | 2015-01-20 | Not yet |
-| [Mobile Search][1924] | 2014-12-17 | [v2.1.0] |
-| [Syntax Highlighted Diffs][1932] | 2014-12-10 | [v2.1.0] |
-| [See results from all pull request status checks][1935] | 2014-12-09 | [v2.1.0] |
-| [Introducing organization webhooks][1933] | 2014-12-04 | [v2.1.0] |
-| [Delete merged branches from your phone][1927] | 2014-11-20 | [v2.1.0] |
-| [Linking merged pull requests from commits][1905] | 2014-11-14 | [v2.1.0] |
-| [SVG Viewing &amp; Diffing][1902] | 2014-10-07 | [v2.1.0] |
-| [Managing Issues and Pull Requests Across Repositories][1901] | 2014-10-07 | [v2.1.0] |
-| [View Issue/Pull Request buttons for Gmail][1891] | 2014-09-20 | Not yet |
-| [Better Word Highlighting in Diffs][1885] | 2014-09-05 | [v2.0.0] |
-| [Introducing split diffs][1884] | 2014-09-04 | [v2.0.0] |
-| [Improved Audit Log][1872] | 2014-08-21 | [v2.0.0] |
-| [Folder Jumping][1877] | 2014-08-20 | [v2.0.0] |
-| [Clone Graphs][1873] | 2014-08-13 | Not yet |
-| [Inviting people to your organization][1868] | 2014-08-06 | [v2.0.0] |
-| [GitHub Pages now runs Jekyll 2.2.0][1867] | 2014-07-31 | [v2.0.0] |
-| [The New GitHub Issues][1866] | 2014-07-29 | [v2.0.0] |
-| [View GeoJSON/TopoJSON Source][1865] | 2014-07-24 | Not yet |
-| [Introducing the Revert Button][1857] | 2014-06-25 | [v2.0.0] |
-| [A better branches page][1852] | 2014-06-21 | [v2.0.0] |
-| [Gist Design Update][1850] | 2014-06-17 | [v2.0.0] |
-| [Locking Conversations][1847] | 2014-06-10 | [v2.0.0] |
-| [PSD Viewing &amp; Diffing][1845] | 2014-06-06 | [v2.0.0] |
-| [Nested task lists][1841] | 2014-05-15 | [v2.0.0] |
-| [Change the visibility of your Gists][1837] | 2014-05-10 | [v11.10.341] |
-| [GitHub Pages &lt;3][1833] | 2014-05-09 | [v11.10.341] |
-| [Wikis: now with more love][1828] | 2014-05-02 | [v11.10.341] |
-| [Updated Services UI][1827] | 2014-04-30 | [v11.10.341] |
-| [Task lists in all markdown documents][1825] | 2014-04-29 | [v11.10.341] |
-| [Write line notes from your phone][1819] | 2014-04-15 | [v11.10.341] |
-| [L is for Labels][1815] | 2014-04-02 | [v11.10.341] |
-| [Collaborating with Lists][1814] | 2014-04-01 | [v11.10.341] |
-| [No Conversation Left Behind][1811] | 2014-03-28 | [v11.10.341] |
-| [Recent activity for authentication credentials][1794] | 2014-03-21 | [v11.10.341] |
-| [Repository metadata and plugin support for GitHub Pages][1797] | 2014-03-15 | [v11.10.341] |
-| [Enhanced OAuth security for SSH keys][1786] | 2014-02-25 | [v11.10.341] |
-| [Rendered Prose Diffs][1784] | 2014-02-15 | [v11.10.341] |
-| [Webhooks level up][1778] | 2014-02-12 | [v11.10.341] |
-| [People you know][1777] | 2014-02-11 | [v11.10.341] |
-| [Diffable, more customizable maps][1772] | 2014-02-06 | Not yet |
-| [Redesigned Conversations][1767] | 2014-02-06 | [v11.10.341] |
-| [Better Organizations][1763] | 2014-01-23 | [v11.10.341] |
-| [Web-flow editing from Pull Requests][1738] | 2014-01-22 | [v11.10.341] |
-| [Introducing GitHub Traffic Analytics][1672] | 2014-01-08 | Not yet |
-| [More Explore Features][1712] | 2013-12-10 | [v11.10.341] |
-| [Soft-wrapping on prose diffs][1707] | 2013-12-04 | [v11.10.341] |
-| [Descriptive error messages for failed GitHub Pages builds][1706] | 2013-12-03 | [v11.10.341] |
-| [Expanding context in diffs][1705] | 2013-12-02 | [v11.10.341] |
-| [View Active Browser Sessions][1658] | 2013-10-15 | [v11.10.341] |
-| [Opening files from pull requests and branches][1650] | 2013-10-01 | [v11.10.341] |
-| [Viewing YAML Metadata in your Documents][1647] | 2013-09-28 | [v11.10.341] |
-| [Releases API Preview][1645] | 2013-09-26 | [v11.10.341] |
-| [Merge Pull Requests from your phone][1642] | 2013-09-25 | [v11.10.341] |
-| [GeoJSON Previewing][1638] | 2013-09-20 | Not yet |
-| [3D File Diffs][1633] | 2013-09-18 | [v11.10.341] |
-
 ## Older than v11.10.341
 
 Few use them and it's difficult to investigate the old versions.
@@ -85,69 +22,6 @@ Patch welcome.
 
 GitHub.com and GitHub Enterprise are copyright © 2014 GitHub Inc. All rights reserved.
 
-[1977]: https://github.com/blog/1977-navigate-branches-from-your-phone
-[1976]: https://github.com/blog/1976-introducing-mobile-web-notifications
-[1974]: https://github.com/blog/1974-pdf-viewing
-[1941]: https://github.com/blog/1941-organization-approved-applications
-[1945]: https://github.com/blog/1945-quick-pull-requests
-[1924]: https://github.com/blog/1924-mobile-search
-[1932]: https://github.com/blog/1932-syntax-highlighted-diffs
-[1935]: https://github.com/blog/1935-see-results-from-all-pull-request-status-checks
-[1933]: https://github.com/blog/1933-introducing-organization-webhooks
-[1927]: https://github.com/blog/1927-delete-merged-branches-from-your-phone
-[1905]: https://github.com/blog/1905-linking-merged-pull-requests-from-commits
-[1902]: https://github.com/blog/1902-svg-viewing-diffing
-[1901]: https://github.com/blog/1901-managing-issues-and-pull-requests-across-repositories
-[1891]: https://github.com/blog/1891-view-issue-pull-request-buttons-for-gmail
-[1885]: https://github.com/blog/1885-better-word-highlighting-in-diffs
-[1884]: https://github.com/blog/1884-introducing-split-diffs
-[1872]: https://github.com/blog/1872-improved-audit-log
-[1877]: https://github.com/blog/1877-folder-jumping
-[1873]: https://github.com/blog/1873-clone-graphs
-[1868]: https://github.com/blog/1868-inviting-people-to-your-organization
-[1867]: https://github.com/blog/1867-github-pages-now-runs-jekyll-2-2-0
-[1866]: https://github.com/blog/1866-the-new-github-issues
-[1865]: https://github.com/blog/1865-view-geojson-topojson-source
-[1857]: https://github.com/blog/1857-introducing-the-revert-button
-[1852]: https://github.com/blog/1852-a-better-branches-page
-[1850]: https://github.com/blog/1850-gist-design-update
-[1847]: https://github.com/blog/1847-locking-conversations
-[1845]: https://github.com/blog/1845-psd-viewing-diffing
-[1841]: https://github.com/blog/1841-nested-task-lists
-[1837]: https://github.com/blog/1837-change-the-visibility-of-your-gists
-[1833]: https://github.com/blog/1833-github-pages-3
-[1828]: https://github.com/blog/1828-wikis-now-with-more-love
-[1827]: https://github.com/blog/1827-updated-services-ui
-[1825]: https://github.com/blog/1825-task-lists-in-all-markdown-documents
-[1819]: https://github.com/blog/1819-write-line-notes-from-your-phone
-[1815]: https://github.com/blog/1815-l-is-for-labels
-[1814]: https://github.com/blog/1814-collaborating-with-lists
-[1811]: https://github.com/blog/1811-no-conversation-left-behind
-[1794]: https://github.com/blog/1794-recent-activity-for-authentication-credentials
-[1797]: https://github.com/blog/1797-repository-metadata-and-plugin-support-for-github-pages
-[1786]: https://github.com/blog/1786-enhanced-oauth-security-for-ssh-keys
-[1784]: https://github.com/blog/1784-rendered-prose-diffs
-[1778]: https://github.com/blog/1778-webhooks-level-up
-[1777]: https://github.com/blog/1777-people-you-know
-[1772]: https://github.com/blog/1772-diffable-more-customizable-maps
-[1767]: https://github.com/blog/1767-redesigned-conversations
-[1763]: https://github.com/blog/1763-better-organizations
-[1738]: https://github.com/blog/1738-web-flow-editing-from-pull-requests
-[1672]: https://github.com/blog/1672-introducing-github-traffic-analytics
-[1712]: https://github.com/blog/1712-more-explore-features
-[1707]: https://github.com/blog/1707-soft-wrapping-on-prose-diffs
-[1706]: https://github.com/blog/1706-descriptive-error-messages-for-failed-github-pages-builds
-[1705]: https://github.com/blog/1705-expanding-context-in-diffs
-[1658]: https://github.com/blog/1658-view-active-browser-sessions
-[1650]: https://github.com/blog/1650-opening-files-from-pull-requests-and-branches
-[1647]: https://github.com/blog/1647-viewing-yaml-metadata-in-your-documents
-[1645]: https://github.com/blog/1645-releases-api-preview
-[1642]: https://github.com/blog/1642-merge-pull-requests-from-your-phone
-[1638]: https://github.com/blog/1638-geojson-previewing
-[1633]: https://github.com/blog/1633-3d-file-diffs
-[v2.1.0]: https://enterprise.github.com/releases#release-2.1.0
-[v2.0.0]: https://enterprise.github.com/releases#release-2.0.0
-[v11.10.341]: https://enterprise.github.com/releases#release-11.10.341
 [github-enterprise]: https://enterprise.github.com/
 [github]: https://github.com/
 [blog]: https://github.com/blog/category/ship
