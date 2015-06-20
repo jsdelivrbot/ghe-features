@@ -4,7 +4,7 @@ Can I use the feature on GitHub Enterprise?
 
 ## Shipped Features List
 
-Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [GitHub Enterprise][github-enterprise].
+Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [GitHub Enterprise][github-enterprise]. See [ghe-features.json].
 
 ## Older than v11.10.341
 
