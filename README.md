@@ -2,9 +2,16 @@
 
 Can I use the feature on GitHub Enterprise?
 
-## Shipped Features List
+## How it works
 
-Roll up [New Features][blog] at The GitHub Blog for [GitHub.com][github] and [GitHub Enterprise][github-enterprise]. See [ghe-features.json](ghe-features.json).
+We're not able to know on The GitHub Blog whether we can use features which shipped on GitHub.com
+on the GitHub Enterprise.
+
+It's the roll up [New Features][blog] at The GitHub Blog for GitHub.com and
+[GitHub Enterprise][github-enterprise]. And it shows the shipped GitHub Enterprise version in The
+GitHub Blog posts.
+
+The shipped features list is available as [ghe-features.json](ghe-features.json).
 
 ## Older than v11.10.341
 
@@ -23,6 +30,5 @@ Patch welcome.
 GitHub.com and GitHub Enterprise are copyright © 2014 GitHub Inc. All rights reserved.
 
 [github-enterprise]: https://enterprise.github.com/
-[github]: https://github.com/
 [blog]: https://github.com/blog/category/ship
 [@okuryu]: https://github.com/okuryu
