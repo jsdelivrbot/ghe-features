@@ -5,11 +5,10 @@ Can I use the feature on GitHub Enterprise?
 ## How it works
 
 We're not able to know on The GitHub Blog whether we can use features which shipped on GitHub.com
-on the GitHub Enterprise.
+on [GitHub Enterprise][github-enterprise].
 
-It's the roll up [New Features][blog] at The GitHub Blog for GitHub.com and
-[GitHub Enterprise][github-enterprise]. And it shows the shipped GitHub Enterprise version in The
-GitHub Blog posts.
+It's the roll up [New Features][blog] at The GitHub Blog for GitHub.com and GitHub Enterprise. And
+it shows the shipped GitHub Enterprise version in The GitHub Blog posts.
 
 The shipped features list is available as [ghe-features.json](ghe-features.json).
 
