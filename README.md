@@ -10,7 +10,9 @@ on [GitHub Enterprise][github-enterprise].
 It's the roll up [New Features][blog] at The GitHub Blog for GitHub.com and GitHub Enterprise. And
 it shows the shipped GitHub Enterprise version in The GitHub Blog posts.
 
-The shipped features list is available as [ghe-features.json](ghe-features.json).
+## Shipped features list
+
+Try to check [ghe-features.json](ghe-features.json).
 
 ## Older than v11.10.341
 
