@@ -1,4 +1,4 @@
-# GitHub Enterprise Features
+# ghe-features - GitHub Enterprise Features
 
 Can I use the feature on GitHub Enterprise?
 
