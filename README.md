@@ -1,6 +1,6 @@
-# ghe-features - GitHub Enterprise Features
+# ghe-features
 
-Can I use the feature on GitHub Enterprise?
+GitHub Enterprise Features - Can I use the feature on GitHub Enterprise?
 
 ## How it works
 
