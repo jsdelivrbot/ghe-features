@@ -32,7 +32,7 @@ Patch welcome.
 
 GitHub Enterprise Features is licensed under the BSD license.
 
-GitHub.com and GitHub Enterprise are copyright © 2014 GitHub Inc. All rights reserved.
+GitHub.com and GitHub Enterprise are copyright © 2015 GitHub Inc. All rights reserved.
 
 [github-enterprise]: https://enterprise.github.com/
 [blog]: https://github.com/blog/category/ship
