@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "ghe-features",
+  "name": "GitHub Enterprise Features",
   "version": "1.0.0",
   "background": {
     "scripts": ["background.js"]
