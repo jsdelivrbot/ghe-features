@@ -1,5 +1,7 @@
 # GitHub Enterprise Features
 
+[![Build Status][build-badge]][build-status]
+
 Can I use the feature on GitHub Enterprise?
 
 ## How it works
@@ -34,6 +36,8 @@ GitHub Enterprise Features is licensed under the BSD license.
 
 GitHub.com and GitHub Enterprise are copyright © 2015 GitHub Inc. All rights reserved.
 
+[build-badge]: https://travis-ci.org/okuryu/ghe-features.svg
+[build-status]: https://travis-ci.org/okuryu/ghe-features
 [github-enterprise]: https://enterprise.github.com/
 [blog]: https://github.com/blog/category/ship
 [@okuryu]: https://github.com/okuryu
