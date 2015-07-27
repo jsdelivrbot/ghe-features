@@ -14,6 +14,10 @@ on [GitHub Enterprise][github-enterprise].
 It's the roll up [New Features][blog] at The GitHub Blog for GitHub.com and GitHub Enterprise. And
 it shows the shipped GitHub Enterprise version in The GitHub Blog posts.
 
+## Installation
+
+It's available on [Chrome Web Store][webstore].
+
 ## Shipped features list
 
 Try to check [ghe-features.json](ghe-features.json).
@@ -40,4 +44,5 @@ GitHub.com and GitHub Enterprise are copyright © 2015 GitHub Inc. All rights re
 [build-status]: https://travis-ci.org/okuryu/ghe-features
 [github-enterprise]: https://enterprise.github.com/
 [blog]: https://github.com/blog/category/ship
+[webstore]: https://chrome.google.com/webstore/detail/github-enterprise-feature/cbdlnakdcjogajdgffbkodkhplllfbcn
 [@okuryu]: https://github.com/okuryu
