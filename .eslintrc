@@ -1,0 +1,8 @@
+{
+  "ecmaFeatures": {
+    "templateStrings": true
+  },
+  "env": {
+    "browser": true
+  }
+}

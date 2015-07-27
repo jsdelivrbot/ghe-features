@@ -1,0 +1,25 @@
+{
+  "name": "ghe-features",
+  "description": "GitHub Enterprise Features",
+  "homepage": "https://github.com/okuryu/ghe-features#readme",
+  "bugs": {
+    "url": "https://github.com/okuryu/ghe-features/issues"
+  },
+  "license": "BSD-3-Clause",
+  "author": "Ryuichi Okumura <okuryu@okuryu.com>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:okuryu/ghe-features.git"
+  },
+  "scripts": {
+    "chrome": "crx pack chrome",
+    "flatten": "package-json-flatten",
+    "test": "eslint chrome"
+  },
+  "devDependencies": {
+    "crx": "^3.0.2",
+    "eslint": "^0.23.0",
+    "package-json-flatten": "^0.4.0"
+  },
+  "private": true
+}
