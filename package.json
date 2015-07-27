@@ -12,7 +12,7 @@
     "url": "git@github.com:okuryu/ghe-features.git"
   },
   "scripts": {
-    "chrome": "crx pack chrome",
+    "chrome": "crx pack chrome --zip-output ghe-features.zip -p key.pem",
     "flatten": "package-json-flatten",
     "test": "eslint chrome"
   },
