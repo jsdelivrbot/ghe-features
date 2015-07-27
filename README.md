@@ -1,8 +1,10 @@
-# ghe-features
+# GitHub Enterprise Features
 
-GitHub Enterprise Features, Can I use the feature on GitHub Enterprise?
+Can I use the feature on GitHub Enterprise?
 
 ## How it works
+
+![](https://cloud.githubusercontent.com/assets/34588/8905664/1566471a-34a3-11e5-848e-9c5aef5662db.png)
 
 We're not able to know on The GitHub Blog whether we can use features which shipped on GitHub.com
 on [GitHub Enterprise][github-enterprise].
@@ -27,6 +29,8 @@ Patch welcome.
 * Ryuichi Okumura ([@okuryu])
 
 ## License
+
+GitHub Enterprise Features is licensed under the BSD license.
 
 GitHub.com and GitHub Enterprise are copyright © 2014 GitHub Inc. All rights reserved.
 
