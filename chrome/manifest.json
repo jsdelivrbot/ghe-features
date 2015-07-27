@@ -12,6 +12,8 @@
     }
   ],
   "permissions": [
-    "https://github.com/*"
+    "https://github.com/*",
+    "https://rawgit.com/*",
+    "https://cdn.rawgit.com/*"
   ]
 }

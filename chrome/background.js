@@ -2,7 +2,7 @@
 (function () {
     "use strict";
 
-    var url = "https://raw.githubusercontent.com/okuryu/ghe-features/master/ghe-features.json?token=AACHHBTQLrsvBszmotNznIBqtTtjm4RJks5VvcSywA%3D%3D";
+    var url = "https://cdn.rawgit.com/okuryu/ghe-features/master/ghe-features.json";
     var data;
     var xhr = new XMLHttpRequest();
     xhr.responseType = "json";
