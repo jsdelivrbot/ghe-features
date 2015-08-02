@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "crx": "^3.0.2",
-    "eslint": "^0.23.0",
+    "eslint": "^1.0.0",
     "package-json-flatten": "^0.4.0"
   },
   "private": true
