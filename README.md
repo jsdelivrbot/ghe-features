@@ -1,6 +1,7 @@
 # GitHub Enterprise Features
 
 [![Build Status][build-badge]][build-status]
+[![Dependency Status][dependency-badge]][dependency-status]
 
 Can I use the feature on GitHub Enterprise?
 
@@ -42,6 +43,8 @@ GitHub.com and GitHub Enterprise are copyright © 2015 GitHub Inc. All rights re
 
 [build-badge]: https://travis-ci.org/okuryu/ghe-features.svg
 [build-status]: https://travis-ci.org/okuryu/ghe-features
+[dependency-badge]: https://gemnasium.com/okuryu/ghe-features.svg
+[dependency-status]: https://gemnasium.com/okuryu/ghe-features
 [github-enterprise]: https://enterprise.github.com/
 [blog]: https://github.com/blog/category/ship
 [webstore]: https://chrome.google.com/webstore/detail/github-enterprise-feature/cbdlnakdcjogajdgffbkodkhplllfbcn
