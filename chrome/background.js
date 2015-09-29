@@ -1,3 +1,8 @@
+/**
+ * Copyright (c) 2015, Ryuichi Okumura. All rights reserved.
+ * Code licensed under the BSD License:
+ * https://github.com/okuryu/ghe-features/blob/master/LICENSE
+ */
 /*global chrome*/
 (function () {
     "use strict";
