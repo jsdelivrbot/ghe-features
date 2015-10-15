@@ -6,7 +6,7 @@
   "https://github.com/blog/2053-easier-feeds-for-github-pages": -1,
   "https://github.com/blog/2051-protected-branches-and-required-status-checks": -1,
   "https://github.com/blog/2041-improving-map-data-on-github": -1,
-  "https://github.com/blog/2040-clearer-mergability-information-for-pull-requests": -1,
+  "https://github.com/blog/2040-clearer-mergability-information-for-pull-requests": "2.4.0",
   "https://github.com/blog/2034-greater-control-over-forks-of-your-private-repositories": -1,
   "https://github.com/blog/2032-mobile-file-finder": "2.3.0",
   "https://github.com/blog/2024-read-only-deploy-keys": "2.3.0",
