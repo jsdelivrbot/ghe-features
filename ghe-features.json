@@ -40,7 +40,7 @@
   "https://github.com/blog/1868-inviting-people-to-your-organization": "2.0.0",
   "https://github.com/blog/1867-github-pages-now-runs-jekyll-2-2-0": "2.0.0",
   "https://github.com/blog/1866-the-new-github-issues": "2.0.0",
-  "https://github.com/blog/1865-view-geojson-topojson-source": "2.0.0",
+  "https://github.com/blog/1865-view-geojson-topojson-source": "2.4.0",
   "https://github.com/blog/1857-introducing-the-revert-button": "2.0.0",
   "https://github.com/blog/1852-a-better-branches-page": "2.0.0",
   "https://github.com/blog/1850-gist-design-update": "2.0.0",
@@ -62,7 +62,7 @@
   "https://github.com/blog/1784-rendered-prose-diffs": "11.10.341",
   "https://github.com/blog/1778-webhooks-level-up": "11.10.341",
   "https://github.com/blog/1777-people-you-know": "11.10.341",
-  "https://github.com/blog/1772-diffable-more-customizable-maps": -1,
+  "https://github.com/blog/1772-diffable-more-customizable-maps": "2.4.0",
   "https://github.com/blog/1767-redesigned-conversations": "11.10.341",
   "https://github.com/blog/1763-better-organizations": "11.10.341",
   "https://github.com/blog/1738-web-flow-editing-from-pull-requests": "11.10.341",
@@ -76,6 +76,6 @@
   "https://github.com/blog/1647-viewing-yaml-metadata-in-your-documents": "11.10.341",
   "https://github.com/blog/1645-releases-api-preview": "11.10.341",
   "https://github.com/blog/1642-merge-pull-requests-from-your-phone": "11.10.341",
-  "https://github.com/blog/1638-geojson-previewing": -1,
+  "https://github.com/blog/1638-geojson-previewing": "2.4.0",
   "https://github.com/blog/1633-3d-file-diffs": "11.10.341"
 }
