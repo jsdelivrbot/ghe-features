@@ -39,22 +39,22 @@
         meta = Array.prototype.slice.call(meta);
 
         switch (meta.length) {
-            case 0:
+        case 0:
+            return false;
+        case 1:
+            if (typeof data[location.href] === "undefined") {
                 return false;
-            case 1:
-                if (typeof data[location.href] === "undefined") {
-                    return false;
+            }
+            extracted.push(data[location.href]);
+            break;
+        default:
+            meta.forEach(function (m) {
+                var a = m.parentNode.querySelector(".blog-post-title a");
+                if (a && a.href) {
+                    extracted.push(data[a.href]);
                 }
-                extracted.push(data[location.href]);
-                break;
-            default:
-                meta.forEach(function (m) {
-                    var a = m.parentNode.querySelector(".blog-post-title a");
-                    if (a && a.href) {
-                        extracted.push(data[a.href]);
-                    }
-                });
-                break;
+            });
+            break;
         }
 
         inject(meta, extracted);
