@@ -14,13 +14,11 @@
   "scripts": {
     "chrome": "crx pack chrome --zip-output ghe-features.zip -p key.pem",
     "flatten": "package-json-flatten",
-    "precommit": "npm test",
     "test": "eslint chrome"
   },
   "devDependencies": {
     "crx": "^3.0.3",
     "eslint": "^1.10.3",
-    "husky": "^0.10.2",
     "package-json-flatten": "^0.4.0"
   },
   "private": true
