@@ -7,7 +7,7 @@
 (function () {
   "use strict";
 
-  var url = "https://cdn.rawgit.com/okuryu/ghe-features/master/ghe-features.json";
+  var url = "https://cdn.jsdelivr.net/gh/okuryu/ghe-features/ghe-features.json";
   var data;
   var xhr = new XMLHttpRequest();
   xhr.responseType = "json";
